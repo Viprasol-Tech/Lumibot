@@ -90,3 +90,10 @@ context*.json
 
 # Local scratch / diagnostics (never commit)
 tmp/
+
+# Dashboard
+dashboard/node_modules/
+dashboard/dist/
+
+# Bot test artifacts
+test.db
